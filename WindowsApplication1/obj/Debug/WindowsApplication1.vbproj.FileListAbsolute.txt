@@ -1,0 +1,3 @@
+E:\(2009-2012) Residente HCUZ\Colaboracion y proyectos\dosimetria area - PENELOPE\work1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\(2009-2012) Residente HCUZ\Colaboracion y proyectos\dosimetria area - PENELOPE\work1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\(2009-2012) Residente HCUZ\Colaboracion y proyectos\dosimetria area - PENELOPE\work1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
